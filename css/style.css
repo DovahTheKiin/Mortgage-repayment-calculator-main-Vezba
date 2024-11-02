@@ -368,5 +368,5 @@ input:hover:focus {
     background-color: hsl(61, 70%, 52%, 0.1);
 }
 input[type='radio'] {
-    accent-color: var(--lime);
+    accent-color: hsl(61, 70%, 35%);;
 }
